@@ -2,7 +2,9 @@
 Installation:
 
 1. npm install -g firebase-tools
-2. firebase init
+2. npm install firebase-functions@latest firebase-admin@latest --save
+3. firebase login
+4. firebase init
 
 
 To Run:
